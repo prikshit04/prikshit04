@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing videogames
 - 🌱 I’m currently learning web dev 
 - 💞️ I’m looking to collaborate on ...
-- 📫 To reach me you can mail me on prixkumar@gmail.com or my isntagram username is "__prikshit___"
+- 📫 To reach me you can mail me on prixkumar@gmail.com
 
 <!---
 prikshit04/prikshit04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
